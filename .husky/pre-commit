@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+# 运行lint-staged进行代码检查和格式化
+npx lint-staged
+
+# 运行类型检查
+npm run type-check

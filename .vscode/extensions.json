@@ -1,0 +1,46 @@
+{
+  "recommendations": [
+    // 必需扩展
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.vscode-typescript-next",
+    "bradlc.vscode-tailwindcss",
+
+    // React开发
+    "dsznajder.es7-react-js-snippets",
+    "formulahendry.auto-rename-tag",
+    "christian-kohler.path-intellisense",
+
+    // 代码质量
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
+    "ms-vscode.vscode-json",
+
+    // Git工具
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+
+    // 开发工具
+    "ms-vscode.vscode-thunder-client",
+    "humao.rest-client",
+    "ms-vscode.vscode-npm-script",
+
+    // 主题和图标
+    "pkief.material-icon-theme",
+    "github.github-vscode-theme",
+
+    // Tauri开发
+    "tauri-apps.tauri-vscode",
+    "rust-lang.rust-analyzer",
+
+    // 其他有用的扩展
+    "gruntfuggly.todo-tree",
+    "wayou.vscode-todo-highlight",
+    "aaron-bond.better-comments",
+    "ms-vscode.vscode-markdown-preview-enhanced"
+  ],
+  "unwantedRecommendations": [
+    "ms-vscode.vscode-typescript",
+    "hookyqr.beautify"
+  ]
+}

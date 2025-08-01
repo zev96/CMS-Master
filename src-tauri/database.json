@@ -1,0 +1,151 @@
+{
+  "products": [],
+  "textAssets": {
+    "general": {
+      "introduction": [],
+      "painpoints": [],
+      "technical": []
+    },
+    "brand": {
+      "CEWEY": {
+        "brand_story": [],
+        "product_features": []
+      },
+      "Dyson": {
+        "brand_story": [],
+        "product_features": []
+      }
+    }
+  },
+  "visualAssets": [],
+  "templates": [
+    {
+      "id": "template-1",
+      "name": "单品文",
+      "main_title": "产品详细评测",
+      "structure": [
+        {
+          "id": "section-1",
+          "title": "产品介绍",
+          "order": 1
+        },
+        {
+          "id": "section-2", 
+          "title": "外观设计",
+          "order": 2
+        },
+        {
+          "id": "section-3",
+          "title": "性能测试", 
+          "order": 3
+        },
+        {
+          "id": "section-4",
+          "title": "使用体验",
+          "order": 4
+        },
+        {
+          "id": "section-5",
+          "title": "总结评价",
+          "order": 5
+        }
+      ],
+      "created_at": "2024-01-01T00:00:00.000Z",
+      "updated_at": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "template-2",
+      "name": "对比文",
+      "main_title": "产品横向对比",
+      "structure": [
+        {
+          "id": "section-1",
+          "title": "对比概述",
+          "order": 1
+        },
+        {
+          "id": "section-2",
+          "title": "外观对比",
+          "order": 2
+        },
+        {
+          "id": "section-3",
+          "title": "性能对比",
+          "order": 3
+        },
+        {
+          "id": "section-4",
+          "title": "价格对比",
+          "order": 4
+        },
+        {
+          "id": "section-5",
+          "title": "购买建议",
+          "order": 5
+        }
+      ],
+      "created_at": "2024-01-01T00:00:00.000Z",
+      "updated_at": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "template-3", 
+      "name": "导购文",
+      "main_title": "选购指南",
+      "structure": [
+        {
+          "id": "section-1",
+          "title": "购买需求分析",
+          "order": 1
+        },
+        {
+          "id": "section-2",
+          "title": "产品推荐",
+          "order": 2
+        },
+        {
+          "id": "section-3",
+          "title": "性价比分析",
+          "order": 3
+        },
+        {
+          "id": "section-4",
+          "title": "购买建议",
+          "order": 4
+        }
+      ],
+      "created_at": "2024-01-01T00:00:00.000Z",
+      "updated_at": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "template-4",
+      "name": "知乎长文",
+      "main_title": "深度解析",
+      "structure": [
+        {
+          "id": "section-1",
+          "title": "背景介绍",
+          "order": 1
+        },
+        {
+          "id": "section-2",
+          "title": "深度分析",
+          "order": 2
+        },
+        {
+          "id": "section-3",
+          "title": "实际测试",
+          "order": 3
+        },
+        {
+          "id": "section-4",
+          "title": "总结思考",
+          "order": 4
+        }
+      ],
+      "created_at": "2024-01-01T00:00:00.000Z",
+      "updated_at": "2024-01-01T00:00:00.000Z"
+    }
+  ],
+  "articles": [],
+  "version": "1.0.0"
+} 
